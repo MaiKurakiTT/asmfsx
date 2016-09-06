@@ -1,1 +1,355 @@
-<?xml version="1.0" encoding="utf-8"?><items version="2" />
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/smssdk/unspecified/jars/libs/MobCommons-2016.0303.1229.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ddc595148a0238fe540adeb85197b714eeec0b51">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/MobCommons-2016.0303.1229_2f8e3dc7be704aa1212d98846e261ad575bc8317/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_location.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b879fb5706dfa2771fbeb546fa05aab290493e60">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_location_5f75021bae2fdb410b3184086c579e812364c334/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/com.umeng.message_v2.7.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6abc47a5314c124732d3df3061194c75f0e44ddc">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/com.umeng.message_v2.7.0_58ded5ad3d2b276b31203169387839dd4aa679b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-update-v2.6.0.1_25065f690f8e13c986e1a1a1447a3887a470269d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="47f159b5e5ccb86a4341065b1fc4808b3894171a">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8353ad2812d5c9b2a33324137be8ba35b592e3e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_d8d894540f5683b81cc19181dcd4955b43b96bc2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/okio-0.6.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e043c191eb1100ae6cd3bf4d1fcd3d1c6981bf2f">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/okio-0.6.1_7dddd6e0ab243ff1b70579a7fd571452b277bef0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/smssdk/unspecified/jars/libs/MobTools-2016.0303.1229.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8c9434ec43cf27d61f0d34ec200027f19a888741">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/MobTools-2016.0303.1229_6495dc6c0fcd5fd955b294256cfc386c375b2047/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/easeui/unspecified/jars/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b3ae0e8bd71c24c30c876824503a71a04c716c08">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/BaiduLBS_Android_5b7168cb1b5624369d87f1e7c85156cf8b8b9394/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="92bdff44e47f66270cb4afc13da050054dc7b5ff">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/android-support-v7-recyclerview_5c9ede47e71de01384c277aa86367bf7a0499f66/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_1f6df3d1e759d6f943ff0478e6ec5d3de331b635/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="82b522e30b05f4198e5dd6571d2310f9d5a3ac4c">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_WeiXin_2_95d97477da69d14694d255ae762e645d6bc63d7f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/SocialSDK_Sina.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="42e7634ea5098a59789f1932a8bc522a283618b7">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_Sina_402bf4b45f2671a6b06d8dddc2c75cdbec030efd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_login.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3d9c4606239ec157b22c1533f55084a4394f2a55">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_login_5693be504f52db68b2b0b0fbc89aa3aaa6d47be5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_37f87ed7549d26e22be374d8d340e34007633d6f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_db.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4219499283ccf18d6a0bf4f74d98a562cef6392d">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_db_ea0df00d4d295fb61785be1139bd8339a7e27ebc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/easeui/unspecified/jars/libs/MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f7de59ca7ef3778c1f36512aa7a79324f85dbf2e">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/MiPush_SDK_Client_2_2_19_a226915647e5ac19220273a045d52600549c66ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e3fdffb8e3cf1196aedd84f491a4f6f6eb477df2">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/mta-sdk-1.6.2_7e200185e75f92f2f770cd246a1a1839876e7b7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cedb8586c430594ecc7901e7039f0dfdf1d1fec7">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_QQZone_3_83d107fcfdbef185660616e66284ea6591297106/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_848966b93a976080b6e5357197dbe29f9a0c5703/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_0bbd306ef001489cb41b5f7c1da58d497a6e888f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/libs/fastjson-1.2.7.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a5c721e8ea1e18854272879d6ed2770d25feb342">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/2/fastjson-1.2.7_293d25d1f8076c8f154ac0f814ef532c1e3175ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/AMap_Location_V2.5.0_20160526.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0626ea6e2de8e21a583457c3cf8704cffab69249">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/AMap_Location_V2.5.0_20160526_d4d7f8a4c098da20c75fa75a5086ba25932c8f63/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/libs/xUtils-3.3.32.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="882c75e6ac9f8a80291282792ff39aeddbec9d7d">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/2/xUtils-3.3.32_6c6dcfe5d5d0923b51b766ff26cdbfa6348be947/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/open_sdk_r5509.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ec6e36c8761259ccbd5a3ead3223bc8c56680f4d">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/open_sdk_r5509_962173eda353181a825a7d78c757438393968bb8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_activeandroid.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5294a5be072e110451c9f113448ecb33bec62c0c">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_activeandroid_b2e629e4447208d2b6d49248ded24704200c30b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/libs/universal-image-loader-1.9.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.1_9e8ac9a8a739deccdf29e5d3270a3a5925abf967/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_a212446f6f2632c5ff77916e9d7cfed00126c5ed/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_ui_main.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d98e94c3257b9305a0763fbf75bbb76b3b44ca82">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_ui_main_9c6ed6b2b7d7bad0d5737ea6cbe39acece436165/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/easeui/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8b8c257c79e1bc801f4e43ac74c5ec4b9d13f33a">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_16845acf3920798ec1271cee72b445e4e93fa50a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/2/bolts-android-1.2.0_78d0f3e71b8a14c01f1cf10ba1d36fe9f4995000/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_ui_weibo.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b1f9424482d3bbc9795f80a1431ffdd25db4f605">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_ui_weibo_f3f03eda4de2cde772b1648f24d1281c22de98ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_90136a3861026dcb6b9d58695113a5f751ef6d1d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_core.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="79b3f8f5a30c3b4476cf004e5ba30caeb2969233">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_core_4d44ca60e42cd3f72a11293c41acc2c112d99f9c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/libs/umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.2.4_21df6a53eacbef4d20aadb847cb927765ceb21bc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e8600ddc953300769c22667867fefbc73d351e8b">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_social_sdk_eac78deabafa7e8ce70ba7629d3c9753ed0ab843/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_share.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="65e7cb95fa1c5087a384ec55abec4b76962f1434">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_share_1c43f65c3898eeb0f7023462b862c814cc17d3c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/wire-runtime-1.7.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ec65f8cb570ecc530ad12c14aac9de03df8ab5cd">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/wire-runtime-1.7.0_bbdcfdeb22d4a0ccea816a6011c583a670f0410f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="48c75afe371642b9b7281a15e33baa948222309e">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3f35c89c459c63e3fa7fa0b1d84a44b6cf2c664/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0ed8fe8942eb981f199653337d0aa491371fbc58/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/weiboSDKCore_3.1.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8aff16f1d58ef69a1c91c19ee23f67980b9ecf0f">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/weiboSDKCore_3.1.4_67bb212e6c3e47a37007b86fbf421bb66ef4a46a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/smssdk/unspecified/jars/libs/SMSSDK-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="38682f2166ab41e1d9cc3912fcdd91b572ea1eed">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/SMSSDK-2.0.2_8cf279084ea1a7100dc8eefa11efc2c22e110bde/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/easeui/unspecified/jars/libs/glide-3.6.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1ad5ceb4f86e1acd439622e6cfaf8a61514c93e1">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/glide-3.6.1_313b4ff647c52cb9cc4bad296e89102689e5510b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/easeui/unspecified/jars/libs/hyphenatechat_3.1.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6c709b97705856ab82d7d32271ec20701ea03c2f">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/hyphenatechat_3.1.2_ec1caa9729113e366423b9dd548d8ff3287f2275/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="06912aae85a06d73e6f5e913ab1502883437ca4f">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_WeiXin_1_27b64be226168eb8a26ca79bb3b99e011a95b8a2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/httpmime-4.1.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7ab5b73c1b297ccc77de871bbaa6ee6ae6e4716a">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/httpmime-4.1.3_2592ef8da76b77a09f5b217d73a1e05fa326abec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6431d3471da49bb8ff69e8659b5995b24b8a291b">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/org.apache.http.legacy_cf6e9d37c0d9f52ec3cbb146adf0c0e773bb4a91/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/libs/Parse-1.9.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/2/Parse-1.9.4_4a964c215fad0ebb5ce83e66f5a116d537a2361b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/net_core.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d6f9c1b0bcd6c79236112313fd5b90c3042a2140">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/net_core_5218b8d5e094f7a8dc6455e343f13a6110ef839e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/exploded-aar/asmfsx0906/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_push.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="196985ca7bc530e005dd18533b73ccff34d56042">
+        <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_push_014b82528ce62f8ed294a2a9a75a30c6dccb34da/classes.dex" />
+    </item>
+
+</items>

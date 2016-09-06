@@ -104,6 +104,7 @@
     <orderEntry type="library" exported="" name="umeng_community_sdk_ui_main" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.umeng.message_v2.7.0" level="project" />
+    <orderEntry type="library" exported="" name="SocialSDK_Sina" level="project" />
     <orderEntry type="library" exported="" name="AMap_Location_V2.5.0_20160526" level="project" />
     <orderEntry type="library" exported="" name="umeng_community_sdk_ui_weibo" level="project" />
     <orderEntry type="library" exported="" name="umeng_social_sdk" level="project" />
@@ -114,7 +115,10 @@
     <orderEntry type="library" exported="" name="umeng_community_share" level="project" />
     <orderEntry type="library" exported="" name="umeng_activeandroid" level="project" />
     <orderEntry type="library" exported="" name="support-v4-23.4.0" level="project" />
+    <orderEntry type="library" exported="" name="SocialSDK_WeiXin_1" level="project" />
     <orderEntry type="library" exported="" name="umeng_community_sdk_login" level="project" />
+    <orderEntry type="library" exported="" name="SocialSDK_WeiXin_2" level="project" />
+    <orderEntry type="library" exported="" name="SocialSDK_QQZone_3" level="project" />
     <orderEntry type="library" exported="" name="umeng_community_push" level="project" />
     <orderEntry type="library" exported="" name="support-vector-drawable-23.4.0" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-23.4.0" level="project" />
