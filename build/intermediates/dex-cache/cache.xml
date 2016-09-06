@@ -33,7 +33,7 @@
         jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="47f159b5e5ccb86a4341065b1fc4808b3894171a">
+        sha1="1c47000e5c8e92ea85410298fc17381fb1e29d5a">
         <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8353ad2812d5c9b2a33324137be8ba35b592e3e6/classes.dex" />
     </item>
     <item
@@ -271,7 +271,7 @@
         jar="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="48c75afe371642b9b7281a15e33baa948222309e">
+        sha1="3e1ee86ba7b52d60e65e8b4ef9b25a39ab3223d4">
         <dex dex="/Users/apple/androidsvn/first/asmfsx0906/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3f35c89c459c63e3fa7fa0b1d84a44b6cf2c664/classes.dex" />
     </item>
     <item
