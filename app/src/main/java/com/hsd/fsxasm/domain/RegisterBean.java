@@ -1,0 +1,1 @@
+package com.hsd.fsxasm.domain;import org.xutils.http.annotation.HttpResponse;import com.hsd.fsxasm.parser.RegisterParser;@HttpResponse(parser = RegisterParser.class)public class RegisterBean extends UserBean{}

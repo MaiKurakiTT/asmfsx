@@ -1,0 +1,1 @@
+package com.hsd.fsxasm.adapter;public class LoginAdapter {	}

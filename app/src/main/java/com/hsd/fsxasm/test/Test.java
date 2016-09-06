@@ -1,0 +1,1 @@
+package com.hsd.fsxasm.test;import android.test.AndroidTestCase;import com.hsd.fsxasm.engine.NLogin;public class Test extends AndroidTestCase{	public void login() {		// TODO Auto-generated method stub		//NLogin.login();	}}

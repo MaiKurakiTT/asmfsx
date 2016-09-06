@@ -1,0 +1,1 @@
+package com.hsd.fsxasm.inter;public interface OnClickSignPopListener {	public void onClickAdd();	public void onClickSend(String text);}

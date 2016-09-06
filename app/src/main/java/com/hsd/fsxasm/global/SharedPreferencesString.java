@@ -1,0 +1,1 @@
+package com.hsd.fsxasm.global;public class SharedPreferencesString {	public static final String IS_LOGIN = "islogin";	public static final String IS_FIRST_RUN = "isfirstrun";			public static final String CURRENT_USER = "current_user";		public static final String FIND_FRIEND_CONDITION = "find_friend_condition";	public static final String FIND_FRIEND = "find_friend";	}

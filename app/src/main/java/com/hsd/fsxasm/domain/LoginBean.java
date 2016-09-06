@@ -1,0 +1,1 @@
+package com.hsd.fsxasm.domain;import org.xutils.http.annotation.HttpResponse;import com.hsd.fsxasm.parser.LoginParser;@HttpResponse(parser = LoginParser.class)public class LoginBean extends UserBean {	// 直接继承UserBean}

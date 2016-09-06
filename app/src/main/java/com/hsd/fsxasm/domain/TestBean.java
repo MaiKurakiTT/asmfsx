@@ -1,0 +1,1 @@
+package com.hsd.fsxasm.domain;import java.util.Date;import org.xutils.http.annotation.HttpResponse;import com.hsd.fsxasm.parser.TestParser;@HttpResponse(parser = TestParser.class)public class TestBean extends BaseBean{	Date time;	public Date getTime() {		return time;	}	public void setTime(Date time) {		this.time = time;	}	}

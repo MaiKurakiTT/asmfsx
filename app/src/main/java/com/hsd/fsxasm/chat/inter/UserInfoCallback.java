@@ -1,0 +1,1 @@
+package com.hsd.fsxasm.chat.inter;import java.util.concurrent.Callable;import com.hyphenate.easeui.domain.EaseUser;public class UserInfoCallback implements Callable{	@Override	public Object call() throws Exception {		// TODO Auto-generated method stub		return null;	}}
