@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
       <module fileurl="file://$PROJECT_DIR$/flushlibrary/flushlibrary.iml" filepath="$PROJECT_DIR$/flushlibrary/flushlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/popupwindow/popupwindow.iml" filepath="$PROJECT_DIR$/popupwindow/popupwindow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/popupwindow2/popupwindow2.iml" filepath="$PROJECT_DIR$/popupwindow2/popupwindow2.iml" />
       <module fileurl="file://$PROJECT_DIR$/smssdk/smssdk.iml" filepath="$PROJECT_DIR$/smssdk/smssdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/umeng_community_wb_library_project/umeng_community_wb_library_project.iml" filepath="$PROJECT_DIR$/umeng_community_wb_library_project/umeng_community_wb_library_project.iml" />
     </modules>
