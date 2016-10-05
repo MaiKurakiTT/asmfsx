@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/asmfsx0912.iml" filepath="$PROJECT_DIR$/asmfsx0912.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asmfsx-together.iml" filepath="$PROJECT_DIR$/asmfsx-together.iml" />
       <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
       <module fileurl="file://$PROJECT_DIR$/flushlibrary/flushlibrary.iml" filepath="$PROJECT_DIR$/flushlibrary/flushlibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/popupwindow/popupwindow.iml" filepath="$PROJECT_DIR$/popupwindow/popupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupwindow/popupWindow.iml" filepath="$PROJECT_DIR$/popupwindow/popupWindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/smssdk/smssdk.iml" filepath="$PROJECT_DIR$/smssdk/smssdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/umeng_community_wb_library_project/umeng_community_wb_library_project.iml" filepath="$PROJECT_DIR$/umeng_community_wb_library_project/umeng_community_wb_library_project.iml" />
     </modules>

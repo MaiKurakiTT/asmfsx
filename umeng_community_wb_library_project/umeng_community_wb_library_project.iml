@@ -104,8 +104,8 @@
     <orderEntry type="library" exported="" name="umeng_community_sdk_ui_main" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.umeng.message_v2.7.0" level="project" />
-    <orderEntry type="library" exported="" name="SocialSDK_Sina" level="project" />
     <orderEntry type="library" exported="" name="AMap_Location_V2.5.0_20160526" level="project" />
+    <orderEntry type="library" exported="" name="SocialSDK_Sina" level="project" />
     <orderEntry type="library" exported="" name="umeng_community_sdk_ui_weibo" level="project" />
     <orderEntry type="library" exported="" name="umeng_social_sdk" level="project" />
     <orderEntry type="library" exported="" name="weiboSDKCore_3.1.4" level="project" />
@@ -118,8 +118,8 @@
     <orderEntry type="library" exported="" name="SocialSDK_WeiXin_1" level="project" />
     <orderEntry type="library" exported="" name="umeng_community_sdk_login" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_WeiXin_2" level="project" />
-    <orderEntry type="library" exported="" name="umeng_community_push" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_QQZone_3" level="project" />
+    <orderEntry type="library" exported="" name="umeng_community_push" level="project" />
     <orderEntry type="library" exported="" name="support-vector-drawable-23.4.0" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-23.4.0" level="project" />
     <orderEntry type="library" exported="" name="open_sdk_r5509" level="project" />
@@ -127,8 +127,8 @@
     <orderEntry type="library" exported="" name="umeng_community_sdk_db" level="project" />
     <orderEntry type="library" exported="" name="umeng_community_sdk_core" level="project" />
     <orderEntry type="library" exported="" name="mta-sdk-1.6.2" level="project" />
-    <orderEntry type="library" exported="" name="umeng_community_location" level="project" />
     <orderEntry type="library" exported="" name="android-support-v7-recyclerview" level="project" />
+    <orderEntry type="library" exported="" name="umeng_community_location" level="project" />
     <orderEntry type="library" exported="" name="net_core" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
     <orderEntry type="library" exported="" name="org.apache.http.legacy" level="project" />
