@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_db.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6aaa95a2c839e8c5ff44566dd43d9500875c3f80">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_db_da47aadcbebd14ccfda40aea9f25568ed57b4c7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="666ee95ecda847cce14c051167c5c5f233f4d258">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_QQZone_3_3f92e5bbfcee45d37d0e65890025c1a6c290a9ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/com.umeng.message_v2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bed831289570395ea3e61dde027f3c291ac4f1d0">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/com.umeng.message_v2.7.0_2e05578041440975984c627704286dff69d2fa70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d78fd95cfbd4d8fb6f8726347fa3bda24d162ee">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/httpmime-4.1.3_e6c5627d737a8b844032dc22b397d179aaf31c7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15d8c5829d53ccbd76839aa9c915467348a4ad66">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_Sina_d43254c2c4bc5e456119f90f30a72c048a83cae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/easeui/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_1998e6e599df4c5547d6d54eb46bc56aedf52999/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/libs/umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.2.4_a4991e660b31edb2afad2650c6a7e7b45c52f911/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_477a8895280c0c1bd8e46999610ead20ff3f47f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/easeui/unspecified/jars/libs/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="015a639bd9933f4f812be8bede14f14bd1bdea8b">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/glide-3.6.1_0d222ee3802b31871a045b7123646b0d6f9d66f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="418868f1416898ed88da34f10e4d770502a8d6b7">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/mta-sdk-1.6.2_5422672648abad10b381db7fb6be03115970e950/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_c4529b950dedb2f59d0ce702964239aa2fffe84a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/smssdk/unspecified/jars/libs/MobCommons-2016.0303.1229.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92912dc75469490c05db6881f9083e2ad61687dd">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/MobCommons-2016.0303.1229_88d69e0a324b681e1a888c8da1af2ed1c8441710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65aaa8246bfcf915b83dc5b5472ea09681c974bd">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_core_7ce98382db60f657df993f031fbaace8c78ead98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_share.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9c04caf6d086c4e58cc567ea4da5cff4db3dfc8">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_share_1438bf28b22b9825a26cabf6c52330730426e50e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bfa77eebb44a4c7a68cfe83f60fec81033d0814b">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b8128175db0d53b41833b8685ee6dd95fd5229dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_7cccd0b439fe59b93aeb9923f3ae296b15362b09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/smssdk/unspecified/jars/libs/SMSSDK-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6238252d635cada796c62183edee0d7ed1e87372">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/SMSSDK-2.0.2_acdc7ec26e324ecfce189b5f6ce091480c42ede9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_activeandroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62a459f0b7ca7ff684c56aec1612bef78dbc0ecd">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_activeandroid_afa5f88c233676954aaa296334ae390f57bc312b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_fe0aa882ed67d269c43943f236b9ffb98416ff73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0e7a81b1d1e31e29f123840f6565980831424863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_8c6d657edb900501f48182b2671953d5ea2e1c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_2d9ab066193eb945857f6055ac0f0a36eda16cf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_1078d8e943ff6716ac8a62c81e93efc5103a0723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_6c0e3a14da80fd4e518eab1714e0e798fd1db7c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9a0e1483e266f796c01984521992b0a8138fe0a0">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6b1b6e9295945822683e49d44e80f61b460dab44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.17/be249d63279f79d827a6bb0328b7d7938730c694/fastjson-1.2.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="be249d63279f79d827a6bb0328b7d7938730c694">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.17_20b26f4ae8dbb4af36a5be16722b0f818b404de4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.zhy/okhttputils/2.6.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-okhttputils-2.6.2_ea06eabb5619d1dd8df35272980dcec108313643/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/easeui/unspecified/jars/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="58ca2fd9380a230afb00512b56878606449efa09">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/BaiduLBS_Android_c42cfc290af73fbb8f2bdf116049ca1330d80d77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2bd398d94f9face4e13519239f1d9ebd39169a9">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_WeiXin_2_878564ba2dd1f08e935cfbc35d58d40bcd2616c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_5821291e14f310c3b5bad61c1d7d81950b6e3663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/weiboSDKCore_3.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2bc78160e85f56f81c91271dfa44bd8c8293cb94">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/weiboSDKCore_3.1.4_8eab9c190e6a98def68f014182eeee8b16c10efc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="233a45cb5652b7b07f06f9d68f7eb0efa1d051c6">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_social_sdk_6502a6c8588e41d4b3453191e6833d8dbb2dcc2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1695688e651035d2ee01ad2d1a697841a0014a08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_4e2ab7a557f9cbbdeb3829ec3f7107dbee0f5151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-update-v2.6.0.1_bd5c7558acfa6dbe49de84b164dc4d835d322e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a/parse-android-1.13.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.1_1a52848a1fccdf5d95a99a319a11719dce28cefa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_location.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="22c2fda6b329fcea34fff10036ce6c9851549174">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_location_565ebd9a6d8024a00f5bb289df97701af624dc52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e92e46408a9824fb0d6441d327cf4b74b482b262">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/org.apache.http.legacy_7736003a1638c6c9e9246644dd1d6f5a4e27f936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8f9575335d2111d91f3a7c13a96200e3b5a69138/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a63dd304bf97d538e9d4ca890b613fd9bb934824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/smssdk/unspecified/jars/libs/MobTools-2016.0303.1229.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2b164fc9d8215dbc6bd92e40e264ffdc77f6d6a">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/MobTools-2016.0303.1229_a599354203a11b5ff33ead97204d74f54c241e12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_ui_weibo.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4468198962aabb18fb640265edd15caf3d16d70">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_ui_weibo_cab578d408473e9fc645f62d21809c09ed350ced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_75fd2f09c5e6b1593ea10fc2ad9d71d92c35b3be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_39ca775920f4b7770aa947a5e1bbc67aba2257a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/libs/xUtils-3.3.32.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="882c75e6ac9f8a80291282792ff39aeddbec9d7d">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/2/xUtils-3.3.32_5ee35f0bd15ae7feb830274d86e5376a12a7c7b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_11a9d33fccd2e4f7064d83d1a54fa183800a1dcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_ui_main.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5c3dd115e17bd3760c092e193b58f8c66e1b7c59">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_ui_main_3698bab843bc943b51a74f2703a228f24f40fed1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_a6c6fd1ad0f1c2a9ffdaee55a1b1756b2758f33f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_WeiXin_1_f6804293df4d7cd9e7261ca619b4696023b71f91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_sdk_login.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="461c5fa837551d1d21bfc37efd9eb068a2e90193">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_sdk_login_cd7d9f51535a6a27e28b1ee9bc9cc1daefc33a21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/easeui/unspecified/jars/libs/MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6231c3f3409df7b3172bc5e89f68fbc6beec733e">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/MiPush_SDK_Client_2_2_19_5be0af1b6d01a4ebf205fd2dd3a6aaa6393115ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/easeui/unspecified/jars/libs/hyphenatechat_3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98ef46bb4dba1d3d31302f3d05e4661e015f28dd">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/hyphenatechat_3.1.2_47e6576d10a0ec9c1c0bf27c823667b4bdc5508a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_9c348af81b68e6baa2eb08dd6207c4decfcfdc5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/libs/universal-image-loader-1.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.1_c0873ace990f050369f9af43401db30e9bae09fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_82d777e8551e8cc3aa4a7c32f66cedf1c418954f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_6781c30dbef3308c989b293c9ef16ff9d6fbe2ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/net_core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2aad0efe622b00096465f57ffa4fd12541399b12">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/net_core_cecdf4d32db9a716832e39eb8231def19fd11723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/AMap_Location_V2.5.0_20160526.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de5b44c5aeaa31eb1adf73421df809cbdc912fc4">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/AMap_Location_V2.5.0_20160526_c7b4f877212fb56f0a6b9a5d7d5e518cd2b03c34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_5d18c8786d934020beb79180ccf1bd9cfc075f5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/umeng_community_push.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a62ecaa350910894603952252e488cff8581ee57">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_community_push_2d00fb83319bcc6eeff3a79735bcd206f78fbdb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/open_sdk_r5509.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9aa09ddac7478e982b3ff55f7e32a7e51f67dbf">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/open_sdk_r5509_590c5a9336d380a99735fa02d9157658890df0e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/exploded-aar/asmfsx-together/umeng_community_wb_library_project/unspecified/jars/libs/wire-runtime-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="95e4248d19e9a5e6d5c6534adc8690629e707687">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/8/wire-runtime-1.7.0_03b8caa92c81bbeba9131a28e51a4084fb235189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/apple/Desktop/workspace/asmfsx-together/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.0.0_e09f22aac07d7e0e85016f8db0ccd35afa00b0a8/classes.dex" />
+    </item>
+
+</items>

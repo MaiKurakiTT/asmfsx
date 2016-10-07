@@ -6,6 +6,7 @@ import android.util.Log;
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.TypeReference;
 import com.google.gson.Gson;
+import com.hsd.fsxasm.global.TempInfo;
 import com.hsd.fsxasm.mvp.bean.BaseBean;
 import com.hsd.fsxasm.mvp.bean.UserInformationBean;
 import com.zhy.http.okhttp.OkHttpUtils;
@@ -25,7 +26,7 @@ public class RequestHeartBeatBiz implements IRequestHeartBeatBiz {
     @Override
     public void requestData(String uuid, final IRequestHeartBeatBiz.OnRequestListener requestListener){
         BaseBean baseBean = new BaseBean();
-        baseBean.setUUID("84f4b998-17df-4997-8fc2-828f89aec37d");
+        baseBean.setUUID(TempInfo.findFirst.getUuid());
         final Gson gson = new Gson();
         String s = gson.toJson(baseBean);
         OkHttpUtils
